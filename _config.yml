@@ -1,0 +1,10 @@
+plugins:
+  - jekyll-seo-tag
+title: RealVol
+description: The future of medical image visualization
+url: realvol.in
+logo: /images/logo_black.png
+social:
+	links: 
+		- https://www.linkedin.com/company/realvol/
+author: palashbansal96
